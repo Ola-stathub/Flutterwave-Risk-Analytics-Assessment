@@ -39,4 +39,4 @@ This repository contains a fraud detection assessment completed using a syntheti
 ## Author
 
 **Oladele Bidemi Ajayi**
-Data Analyst | Data Scientist | Statistics Graduate
+- Data Analyst | Data Scientist | Statistics Graduate
