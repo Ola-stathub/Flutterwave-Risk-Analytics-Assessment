@@ -35,25 +35,6 @@ This repository contains a fraud detection assessment completed using a syntheti
 * Fraud F1-Score: 81%
 * ROC-AUC: 0.884
 
-## Repository Structure
-
-```text
-├── data/
-│   └── flutterwave_synthetic_txs.csv
-├── notebooks/
-│   └── fraud_detection_assessment.ipynb
-├── sql/
-│   └── feature_engineering.sql
-├── README.md
-```
-
-## Key Deliverables
-
-* SQL feature engineering query
-* Exploratory data analysis notebook
-* Fraud detection machine learning model
-* Model evaluation report
-* Business strategy recommendation
 
 ## Author
 
